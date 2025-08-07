@@ -1,21 +1,22 @@
 ### Hi, I'm Govind 👋
 
-I'm a full-stack developer and third-year CSE student (B.Tech, 2027) focused on building production-grade tools, platforms, and utilities — often independently, end to end.
+I'm a full-stack developer and third-year CSE student (B.Tech, 2027) who enjoys building production-grade tools, platforms, and web applications — usually solo, end to end.
 
-Right now, I’m developing **SwiftKart** — a Blinkit-style grocery delivery platform built solo as a Software Development Intern at Brisons International. From frontend UI to backend architecture (cart, checkout, inventory), it's designed as a mobile-first PWA optimized for real-world use.
+Currently, I’m developing **SwiftKart** as a Software Development Intern at Brisons International — a full-featured grocery delivery platform with real-time product browsing, cart and checkout flows, and a scalable backend. It’s built using the MERN stack and designed as a mobile-first PWA.
 
-Earlier, I single-handedly built **Avaxan Pharma**, a pharmacy e-commerce platform during my internship at Avaxan. It includes secure product flows, clean backend structure, and an AI-powered chatbot (currently being integrated).
+Previously, I single-handedly built **Avaxan Pharma**, a pharmacy e-commerce platform during my internship. It features secure authentication, product flows, and an AI chatbot that’s currently being integrated.
 
-Some of my favorite personal projects:
-- ⚙️ [**Zephyr Dev Tools**](https://encr.pw/IIyPo) – modern all-in-one dashboard for developers  
+Some personal projects I’ve worked on:
 - 🔐 [**Diffie-Hellman Demo**](https://l1nq.com/Y7FZ0) – interactive cryptography visualizer  
-- ✍️ [**RSA Digital Signature + Blockchain Timestamping**](https://l1nq.com/TTapp) – secure document signing  
-- 🎮 [**PokéNest**](https://l1nq.com/0GrPp) – stat calculator, team builder, and battle tools for Pokémon fans  
-- 🧠 **FocusNet** – productivity tracker for devs & students  
-- 🎲 **GameHub** – collection of classic games with AI logic (Tetris, Snake, 2048, Ping Pong, etc.)
+- ✍️ [**RSA Signature + Blockchain Timestamping**](https://l1nq.com/TTapp) – secure document signing app  
+- ⚙️ [**Zephyr Dev Tools**](https://encr.pw/IIyPo) – modern utility dashboard for developers  
+- 🌦️ **WeatherMood** – playful weather app with mood-based UI  
+- 🧠 **FocusNet** – a lightweight productivity tracker  
+- 🎮 [**PokéNest**](https://l1nq.com/0GrPp) – tools for Pokémon team building, stat analysis, and simulation  
+- 🎲 **GameHub** – AI-enhanced Tetris, Snake, 2048, Ping Pong, and more
 
-Outside of dev, I’ve solved 400+ problems on LeetCode, contribute actively in <CODE/IO> and ACM, and constantly experiment with new tech and tools.
+I’ve solved 400+ problems on LeetCode, and I’m actively involved in <CODE/IO> and ACM. I love exploring new stacks, building fast UIs, and solving meaningful problems.
 
-> Fun fact: I was invited to the **Pokémon World Championship 2025**, where I learned that strategy, timing, and good decision-making matter both in battles and in code 😄
+> Fun fact: I was invited to the **Pokémon World Championship 2025** — a great reminder that strategic thinking, pattern recognition, and good timing matter just as much in games as in software.
 
-Thanks for stopping by — feel free to explore the repos below 👇
+Thanks for stopping by! Feel free to check out my projects below 👇
