@@ -1,56 +1,21 @@
-# 🚀 Govind Singh | Aspiring Software Developer & AI Enthusiast  
+### Hi, I'm Govind 👋
 
-## 👨‍💻 About Me  
-I am a **Computer Science student at BMS College of Engineering (2023-2027)** with a strong passion for **Software Development, AI, and Competitive Coding.** I believe that **consistent effort, hands-on learning, and problem-solving** are the keys to mastering technology. My goal is to **build impactful software solutions while continuously improving my skills.**  
+I'm a full-stack developer and third-year CSE student (B.Tech, 2027) focused on building production-grade tools, platforms, and utilities — often independently, end to end.
 
-> *"Growth comes from consistency, not perfection. Whether it’s coding, problem-solving, or learning something new, the key is to keep going—even when things feel difficult. Every challenge is an opportunity to improve, and the best way to succeed is to keep pushing forward, one step at a time, until you reach the top."*  
+Right now, I’m developing **SwiftKart** — a Blinkit-style grocery delivery platform built solo as a Software Development Intern at Brisons International. From frontend UI to backend architecture (cart, checkout, inventory), it's designed as a mobile-first PWA optimized for real-world use.
 
----
+Earlier, I single-handedly built **Avaxan Pharma**, a pharmacy e-commerce platform during my internship at Avaxan. It includes secure product flows, clean backend structure, and an AI-powered chatbot (currently being integrated).
 
-## 🌟 My Vision & Interests  
-- 🔹 Interested in **Artificial Intelligence, Robotics, and Software Development**  
-- 🔹 Exploring **App Development and Cloud Computing** to expand my technical knowledge  
-- 🔹 Passionate about **creating real-world tech solutions that make an impact**  
+Some of my favorite personal projects:
+- ⚙️ [**Zephyr Dev Tools**](https://encr.pw/IIyPo) – modern all-in-one dashboard for developers  
+- 🔐 [**Diffie-Hellman Demo**](https://l1nq.com/Y7FZ0) – interactive cryptography visualizer  
+- ✍️ [**RSA Digital Signature + Blockchain Timestamping**](https://l1nq.com/TTapp) – secure document signing  
+- 🎮 [**PokéNest**](https://l1nq.com/0GrPp) – stat calculator, team builder, and battle tools for Pokémon fans  
+- 🧠 **FocusNet** – productivity tracker for devs & students  
+- 🎲 **GameHub** – collection of classic games with AI logic (Tetris, Snake, 2048, Ping Pong, etc.)
 
----
+Outside of dev, I’ve solved 400+ problems on LeetCode, contribute actively in <CODE/IO> and ACM, and constantly experiment with new tech and tools.
 
-## 💻 Technical Skills  
-- 🚀 **Programming:** Java, Python, C  
-- 💾 **Databases:** MySQL, MongoDB  
-- 🌐 **Web Development:** HTML, CSS, JavaScript  
-- 📚 **Libraries & Tools:** NumPy, Pandas, Git  
+> Fun fact: I was invited to the **Pokémon World Championship 2025**, where I learned that strategy, timing, and good decision-making matter both in battles and in code 😄
 
----
-
-## 🚀 Projects & Development Work  
-- 🎮 **Game Development (Java)** – Created **Tic-Tac-Toe, Snake Game, Ping Pong, and Tetris**, focusing on game logic and UI.  
-- 🔐 **Password Manager (Unix-based)** – Developed a **secure password management system** for encrypted storage.  
-- 🧠 **Parkinson’s Predictor Website** – Built an **AI-based prediction tool** using LLMs, Pandas, and Web Dev.  
-- 🎵 **Upcoming:** Developing a **music player app** with features like **local music playback, playlists, and background playback.**  
-
----
-
-## 🏆 Achievements & Coding Experience  
-- ✔ Solved **350+ LeetCode problems**, refining DSA & problem-solving skills.  
-- ✔ **Codethon participant**, competing in real-time coding challenges.  
-- ✔ **Attended a Go Language Workshop**, expanding my programming knowledge.  
-
----
-
-## 👨‍💻 Community & Leadership Roles  
-- 💻 **Senior Coordinator** – Competitive Coding Wing, <CODE/IO>  
-- ⚡ **Organizing Committee** – Tech Department, TeamCodeLocked  
-- 📌 **Member** – ACM Student Chapter  
-
----
-
-## 📌 Current Focus & Future Goals  
-- 🔹 Actively working on **App Development, AI-driven solutions, and high-performance applications.**  
-- 🔹 Goal: To **merge creativity with technology** to develop **efficient & scalable software solutions.**  
-
----
-
-## 📫 Connect with Me!  
-- 🔗 **GitHub:** [GovindSingh-95](https://github.com/GovindSingh-95)  
-- 🔗 **LinkedIn:** [www.linkedin.com/in/govindsingh95](https://www.linkedin.com/in/govindsingh95)  
-- 📧 **Email:** [govind.s9551@gmail.com](mailto:govind.s9551@gmail.com)  
+Thanks for stopping by — feel free to explore the repos below 👇
