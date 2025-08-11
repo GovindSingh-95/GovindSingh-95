@@ -2,7 +2,7 @@
 
 I'm a full-stack developer and third-year CSE student (B.Tech, 2027) who enjoys building production-grade tools, platforms, and web applications — usually solo, end to end.
 
-Currently, I’m developing **SwiftKart** as a Software Development Intern at Brisons International — a full-featured grocery delivery platform with real-time product browsing, cart and checkout flows, and a scalable backend. It’s built using the MERN stack and designed as a mobile-first PWA.
+Currently, I’m developing **Fetchly** as a Software Development Intern at Brisons International — a full-featured grocery delivery platform with real-time product browsing, cart and checkout flows, and a scalable backend. It’s built using the MERN stack and designed as a mobile-first PWA.
 
 Previously, I single-handedly built **Avaxan Pharma**, a pharmacy e-commerce platform during my internship. It features secure authentication, product flows, and an AI chatbot that’s currently being integrated.
 
